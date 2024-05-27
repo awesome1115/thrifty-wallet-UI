@@ -1,0 +1,27 @@
+const NavRoutes = {
+  DashboardOverview: { path: "/wallets/crypto-wallet" },
+  OnboardingPage: { path: "/onboarding" },
+  Registration: { path: "/registration" },
+  SignUp: { path: "sign-up" },
+  TwoFactorAuth: { path: "two-factor-auth" },
+  TwoFactorPin: { path: "two-factor-pin" },
+  Login: { path: "/login" },
+  SignIn: { path: "sign-in" },
+  ForgotPass: { path: "forgot-pass" },
+  ResetPass: { path: "reset-pass" },
+  OtpVerification: { path: "otp-verification" },
+  AccountSetup: { path: "/account-setup" },
+  Wallets: { path: "/wallets" },
+  CryptoWallet: { path: "crypto-wallet" },
+  TopUp: { path: "top-up" },
+  FiatWallet: { path: "fiat-wallet" },
+  LoyaltyWallet: { path: "loyalty-wallet" },
+  Account: { path: "/account" },
+  ThriftyWallet: { path: "/thrifty-wallet" },
+  TermsAndConditions: { path: "terms-and-condition" },
+  PrivacyPolicy: { path: "privacy-policy" },
+  AboutPage: { path: "about" },
+  FAQ: { path: "FAQ" },
+};
+
+export default NavRoutes;

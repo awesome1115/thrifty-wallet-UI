@@ -1,0 +1,43 @@
+.mainBox {
+  height: 100vh;
+}
+
+.stepperBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.stepImageBox {
+  background-image: url("../../assets//onboardingBGImage.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.sweapableContainer {
+  width: 90vw;
+}
+
+.stepImage {
+  min-width: 280px;
+  max-width: 325px;
+  min-height: 280px;
+  max-height: 325px;
+}
+
+.stepTitle {
+  text-align: center;
+  background: linear-gradient(#f9e006, #ff6738);
+  background: -webkit-linear-gradient(#f9e006, #ff6738);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.contentBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

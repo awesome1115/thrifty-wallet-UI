@@ -1,0 +1,22 @@
+.textUnderScore {
+  background-color: #f9e006;
+  height: 5px;
+  width: 35px;
+}
+
+.imageUploadBox {
+  margin-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.imageBox {
+  padding: 1.5rem 3rem;
+  border-radius: 10px;
+}
+
+.uploadedImageBox > img {
+  height: 88px;
+  width: 129px;
+}

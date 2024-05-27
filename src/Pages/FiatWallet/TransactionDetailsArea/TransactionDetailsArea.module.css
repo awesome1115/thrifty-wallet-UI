@@ -1,0 +1,20 @@
+.datePickerArea {
+  width: 60%;
+}
+
+.tableBox {
+  margin-top: 2rem;
+}
+
+.tableArea {
+  overflow-y: auto;
+  padding-right: 1rem;
+}
+
+.filterBoxMobile {
+  padding: 1rem;
+}
+
+.searchAreaMobile {
+  margin-bottom: 1rem;
+}
